@@ -1,4 +1,0 @@
-This is Jegan 
-today this was my first git work using version control system
-
-hello jegan how are you
